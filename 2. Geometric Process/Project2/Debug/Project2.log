@@ -1,0 +1,14 @@
+﻿  GEOMETRIC.c
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(25,1): warning C4244: '초기화 중': 'double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(42,50): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(46,51): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(102,1): warning C4244: '초기화 중': 'double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(117,50): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(121,51): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(180,1): warning C4244: '초기화 중': 'double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(353,142): warning C4244: 'return': 'double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(374,73): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(374,61): warning C4024: 'Blurring': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(384,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project2_hw (1)수정\Project2\GEOMETRIC.c(385,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project2.vcxproj -> C:\Users\조휘성\Desktop\Project2_hw (1)수정\Debug\Project2.exe

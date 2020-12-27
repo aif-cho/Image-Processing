@@ -1,0 +1,29 @@
+﻿  Filtering.c
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(21,107): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(153,73): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(153,61): warning C4024: 'Embossing': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(169,78): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(169,66): warning C4024: 'Embossing': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(193,72): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(193,60): warning C4024: 'Blurring': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(218,77): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(218,65): warning C4024: 'Blurring': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(240,74): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(240,62): warning C4024: 'Median_Filter': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(259,79): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(259,67): warning C4024: 'Median_Filter': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(280,86): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(280,74): warning C4024: 'Homogeneity_Operator': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(299,91): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(299,79): warning C4024: 'Homogeneity_Operator': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(319,99): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(319,87): warning C4024: 'First_order_Differential_Operator': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(338,104): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(338,92): warning C4024: 'First_order_Differential_Operator': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(361,72): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[49]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(361,58): warning C4024: 'DoG': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(381,77): warning C4047: '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[49]'과(와) 다릅니다.
+C:\Users\조휘성\Desktop\Project3_hw\Project3\Filtering.c(381,63): warning C4024: 'DoG': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  image.c
+  코드를 생성하고 있습니다...
+  Project3.vcxproj -> C:\Users\조휘성\Desktop\Project3_hw\Debug\Project3.exe

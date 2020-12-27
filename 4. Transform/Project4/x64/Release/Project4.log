@@ -1,0 +1,30 @@
+﻿  DFT.c
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(44,98): warning C4244: '=': 'Double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(64,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(66,9): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(71,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(73,10): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(81,53): warning C4244: '*=': 'Double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(82,53): warning C4244: '*=': 'Double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(132,20): warning C4133: '함수': 'Double *'과(와) 'UChar *' 사이의 형식이 호환되지 않습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(132,30): warning C4133: '함수': 'Double *'과(와) 'UChar *' 사이의 형식이 호환되지 않습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(170,35): warning C4244: '함수': 'Double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(170,76): warning C4244: '함수': 'Double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(170,121): warning C4244: '함수': 'Double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(251,116): warning C4244: '=': 'Double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(215,15): warning C4101: 'Spec' :참조되지 않은 지역 변수입니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(264,55): warning C4133: '=': 'Double *'과(와) 'UChar *' 사이의 형식이 호환되지 않습니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(262,22): warning C4101: 'Normal_Co_j' :참조되지 않은 지역 변수입니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(261,9): warning C4101: 'Temp' :참조되지 않은 지역 변수입니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(262,9): warning C4101: 'Normal_Co_i' :참조되지 않은 지역 변수입니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(261,15): warning C4101: 'Spec' :참조되지 않은 지역 변수입니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(329,9): warning C4101: 'TMP' :참조되지 않은 지역 변수입니다.
+C:\Users\조휘성\Desktop\Project4_hw\Project4\DFT.c(328,9): warning C4101: 'Focus_TMP' :참조되지 않은 지역 변수입니다.
+  image.c
+  main.c
+  코드를 생성하고 있습니다.
+  6 of 13 functions (46.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Project4.vcxproj -> C:\Users\조휘성\Desktop\Project4_hw\x64\Release\Project4.exe
